@@ -4,6 +4,12 @@ RUNTIME TERRORS
 IMPORTANT: note a patient ID from the given patient_data.csv file and enter it while running the python code.
 
 
+Frontend:
+
+1. You can open up the web-page names "new.html" along with files "new.css" and "new.js".
+
+
+Backend:
 
 Resource Allocation Algorithm for Patient-Hospital Assignment
 
@@ -35,7 +41,9 @@ Algorithm Steps
    - Also visual depiction of the amount of beds are portrayed.
 
 7. Outputs for goverment officials:
-    - we are providing pie and bar graph to them on the trends of Age distributionof patients,Beds composition on basis of oxygen cylinders and Top 5 findings of covid       and other respiratory diseases
+    - we are providing pie and bar graph to them on the trends of Age distributionof patients,Beds composition on basis of oxygen cylinders and Top 5 findings of covid             and other respiratory diseases
+
+NOTE : All the outputs will be shown on the python file for now.
 
 Considerations
 
